@@ -1,0 +1,11 @@
+ h2 {
+            color: rgb(230, 157, 0);
+        background-color: black } 
+        p {
+            color: rgb(191, 0, 255);
+        }
+        li{color: rgb(191, 0, 255);
+        }
+
+table, th, td{ border: 1px solid black;}
+        
